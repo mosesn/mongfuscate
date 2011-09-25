@@ -19,7 +19,7 @@ class Mongfuscate:
     """
 
 
-    def __init__(self, collection, function=DEFAULT_FUNC, repeat = REPEAT):
+    def __init__(self, collection, function = DEFAULT_FUNC, repeat = REPEAT):
         """
         Makes an instance of Mongfuscate
 
